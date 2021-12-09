@@ -1,4 +1,4 @@
-# Desctição:
+# Descrição:
 
   - Projeto enquanto estudante de desenvolvimento web na Trybe com o objetivo de executar um CRUD com os conceitos de estados do React.
 
